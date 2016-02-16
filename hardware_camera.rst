@@ -1,14 +1,12 @@
-Additional hardware for camera mounting
-=============================================
+Additional hardware for DSLR camera mounting
+==============================================
 
-
-
+The following hardware is also included in the `Imaging enclosure kit for DSLR cameras, SKU # ENC-02 <http://iorodeo.com/products/imaging-enclosure-with-camera-mount>`_ and not the smartphone camera kits. 
 
 .. figure:: _static/hardware_bag_camera.png
    :align:  center
 
 
-The following hardware is used only for the camera mounting top and is not required for the Smartphone version.
 
 
 =====   =======================================   ===================   ===================            

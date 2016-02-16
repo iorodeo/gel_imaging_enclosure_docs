@@ -1,3 +1,5 @@
+**Assembly instructions start here !** 
+
 Step 1: Base Panel
 =====================================
 

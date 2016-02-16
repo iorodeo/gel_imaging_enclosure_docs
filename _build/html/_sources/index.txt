@@ -5,18 +5,19 @@
 
 
    
-This is the documentation and Build Instructions for our Imaging Enclosure kit. This kit can be purchased from our online store at http://www.iorodeo.com.
-The imaging enclosure is a 12" x 9" wide x 12" tall box made from machined 0.25" thick machined ABS. 
-   
-   
-   
-   
+This is the documentation and build instructions for the two Imaging Enclosure kits. 
+
+* `Imaging enclosure kit for Smartphone cameras, SKU # ENC-01 <http://iorodeo.com/products/imaging-enclosure-kit-for-smartphones>`_
+* `Imaging enclosure kit for DSLR cameras, SKU # ENC-02 <http://iorodeo.com/products/imaging-enclosure-with-camera-mount>`_
+
    
 
 
-.. figure:: _static/enclosure_4_7.png
+.. figure:: _static/both_types.png
    :align:  center
 
+
+The only difference between the two kits is the enclosure top that is used. Other than that the build instructions and kit content descriptions are the same. 
 
    
 Table of Contents
@@ -31,6 +32,7 @@ Kit Contents
    :maxdepth: 1
 
    kit_contents.rst
+   kit_panels.rst
    acrylic_frames.rst
    hardware.rst
    hardware_camera.rst
@@ -51,6 +53,17 @@ Assembly Instructions
    assembly_2.rst
    assembly_3.rst
   
+
+  
+Images of final assembled enclosures
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+
+   images_smartphone.rst
+   images_dslr.rst
 
    
 Using the imaging enclosure

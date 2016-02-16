@@ -11,19 +11,10 @@ Smartphone version
 
 .. figure:: _static/smartphone_enclosure_1.png
    :align:  center
-
-.. figure:: _static/smartphone_enclosure_2.png
-   :align:  center
-.. figure:: _static/smartphone_enclosure_3.png
-   :align:  center
-
    
    
 Camera version
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: _static/enclosure_1.png
-   :align:  center
-
-.. figure:: _static/enclosure_6.png
    :align:  center
