@@ -52,6 +52,7 @@ Assembly Instructions
    top_panel.rst
    assembly_2.rst
    assembly_3.rst
+   example_build.rst
   
 
   
