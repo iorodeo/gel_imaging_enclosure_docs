@@ -1,0 +1,37 @@
+List of Parts and Vendors
+============================
+
+
+
+
+.. _hardware_label:
+
+The following is a list of all of the hardware that is used in making the imaging enclosure, including the Vendor and Part # for reference. 
+
+=====   =======================================   ===================   ===================            
+Qty     Description                               Vendor                Part #
+=====   =======================================   ===================   ===================          
+38      6-32, 3/8” long screws                    McMaster-Carr         91249A146
+2       6-32, 5/16” long screws                   McMaster-Carr         91249A145
+4       6-32, 3/8” long thumbscrew                McMaster-Carr         91185A261
+6       6-32, heat set thread inserts [#f1]_      McMaster-Carr         93365A130
+4       6-32, 1/2” long male-female standoffs     McMaster-Carr         93505A442
+1       8-32, 5/16” long screws                   McMaster-Carr         91249A190
+6       8-32, 1/2” long screws                    McMaster-Carr         91249A194
+13      8-32, heat set thread inserts [#f1]_      McMaster-Carr         93365A140
+8       10-32, 1/2” long screws                   McMaster-Carr         91249A263
+8       10-32, heat set thread inserts [#f1]_     McMaster-Carr         93365A154
+1       Handle                                    McMaster-Carr         1568A33
+2       Hinges                                    McMaster-Carr         1635A22
+1       Magnet latch with plate                   McMaster-Carr         1676A11
+1       Cable grommet                             mycablemart.com       BM-1037BK-32
+19      Right-angle brackets                      Jameco                2203215
+4       Rubber feet                               Digi-Key              SJ5012-0-ND
+=====   =======================================   ===================   ===================          
+
+
+
+
+.. rubric:: Footnotes
+
+.. [#f1] We insert the heat-set inserts into the ABS panels before we ship the kit, so this is already done and not part of the kit assembly.
